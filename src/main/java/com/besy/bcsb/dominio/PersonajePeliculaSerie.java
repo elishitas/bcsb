@@ -8,6 +8,7 @@ public class PersonajePeliculaSerie {
         this.personaje = personaje;
         this.peliculaSerie = peliculaSerie;
     }
+
     public Personaje getPersonaje() {
         return personaje;
     }

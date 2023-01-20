@@ -13,27 +13,35 @@ public class PeliculaSerie {
         this.calificacion = calificacion;
         this.genero = genero;
     }
+
     public String getTitulo() {
-        return titulo;
+         return titulo;
     }
+
     public void setTitulo(String titulo) {
-        this.titulo = titulo;
+         this.titulo = titulo;
     }
+
     public LocalDate getFechaDeCreacion() {
-        return fechaDeCreacion;
+         return fechaDeCreacion;
     }
+
     public void setFechaDeCreacion(LocalDate fechaDeCreacion) {
-        this.fechaDeCreacion = fechaDeCreacion;
+         this.fechaDeCreacion = fechaDeCreacion;
     }
+
     public int getCalificacion() {
-        return calificacion;
+         return calificacion;
     }
+
     public void setCalificacion(int calificacion) {
-        this.calificacion = calificacion;
+         this.calificacion = calificacion;
     }
+
     public Genero getGenero() {
-        return genero;
+         return genero;
     }
+
     public void setGenero(Genero genero) {
          this.genero = genero;
     }
