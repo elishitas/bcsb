@@ -3,7 +3,6 @@ package com.besy.bcsb.utilidades;
 import com.besy.bcsb.dominio.Genero;
 import com.besy.bcsb.dominio.PeliculaSerie;
 import com.besy.bcsb.dominio.Personaje;
-import com.besy.bcsb.dominio.PersonajePeliculaSerie;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
