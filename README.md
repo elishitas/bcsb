@@ -1,10 +1,11 @@
-<h1 align="center"> Backend para B 💪</h1>
+<h1 align="center"> Backend B 💪</h1>
 
 Api Rest.
 
 ## Requerimientos 📋
 
 Java 11
+
 IntelliJ IDEA 
 
 ## Instalación ⚙️
@@ -16,3 +17,8 @@ IntelliJ IDEA
 ## Test 🛠️
 
 ## Documentación 📖
+
+---
+
+<> con ❤️ 
+
